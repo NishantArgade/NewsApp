@@ -1,0 +1,7 @@
+
+.nav-link:hover { color:yellow !important; }
+.nav-link:focus { color:red !important; }
+
+.countryLink:hover { color:rgb(255, 0, 234) !important; }
+.countryLink:focus { color:red !important; }
+
